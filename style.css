@@ -12,4 +12,5 @@ a:hover{
     background-color:darkgray;
     transition:0.5s;
     box-shadow:2px 2px 2px gray;
+    border-radius:4px;
 }
